@@ -1,4 +1,4 @@
-# List of artist starting with S
+# List of artists starting with S
 
 - [Saida](saida.md)
 - [Saotra sy Dera](saotrasydera)
