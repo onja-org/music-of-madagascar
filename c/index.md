@@ -2,9 +2,9 @@
 
 - [Claudiot](claudiot.md)
 - [Claud de Mahanoro](claud-de-mahanoro.md)
-- [Clo mahajanga](clo-mahajanga)
+- [Clo mahajanga](clo-mahajanga.md)
 - [Clauvis](clauvis.md)
 - [Chantal](chantal.md)
 
-[Go back to the artist index](http://../index.md)
+[Go back to the artist index](../index.md)
 
