@@ -16,7 +16,7 @@
 - [Matsobara](matsobara.md)
 - [Meizah](meizah.md)
 - [Melky](melky.md)
-- [Mem’s Akademia](mem's-akademia.md)
+- [Mem’s Akademia](mem-s-akademia.md)
 - [Micka sy Davis](mika-sy-davis.md)
 - [Mijah](mijah.md)
 - [Mima](mima.md)
@@ -26,7 +26,3 @@
 - [Mr Sayda](mr-sayda.md)
 
 [Go back to artist index](../index.md)
-
-
-
-
