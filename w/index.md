@@ -1,4 +1,4 @@
-# List of the artists starting with 
+# List of the artists starting with W
 
 . [Willy](willy.md)  
 . [Wada](wada.md)  
