@@ -15,5 +15,5 @@
 - [Arione joy](arionjoy.md)
 - [Arnah](arnah.md)
 
-Go back to the artist index
 
+[Go back to the artist index](../index.md)
