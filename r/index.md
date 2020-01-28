@@ -1,0 +1,18 @@
+# List of artists starting with R
+- [Radada](radada.md)
+- [Railola](railola.md)
+- [Raozin’ny paradisa](raozin'ny-mahantra.md)
+- [Ramahafadrahona](ramahafadrahona.md)
+- [Ramilison besigara](ramilison-besigara.md)
+- [Rasoa kininika](rasoa-kininika.md)
+- [Rebika](rebika.md)
+- [Refano](refano.md)
+- [Ridjade](ridjade.md)
+- [Rija Rasolondraibe](rija-rasolondraibe.md)
+- [Rindra](rindra.md)
+- [Rissi](rissi.md)
+- [Robera](robera.md)
+- [Rossy](rossy.md)
+- [Rotsy](rotsy.md)
+
+[Go back to the artist index](../index.md)
