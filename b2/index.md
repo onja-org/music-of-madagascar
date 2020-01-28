@@ -1,5 +1,4 @@
-## List of artists starting with B
-
+## List of artists index b
 - [Bollo Pix](bollo-pix.md)
 - [Barinjaka](barinjaka.md)
 - [Benja Ralibera](benja-ralibera.md)
@@ -18,4 +17,4 @@
 - [Brams](brams.md)
 - [Besa](besa.md)
 - [Belah](belah.md)
-- [Bongliza](bongoliza.md)
+- [Bongliza](bongliza.md)
