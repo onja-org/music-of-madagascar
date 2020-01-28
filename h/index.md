@@ -1,7 +1,7 @@
 # List of the artists starting with H
 
 - [Hazolahy](hazolahy.md)
--[ Herizo](herizo.md)
+- [Herizo](herizo.md)
 - [Haja](haja.md)
 - [Henry Ratsimbazafy](henry-ratsimbazafy.md)
 
