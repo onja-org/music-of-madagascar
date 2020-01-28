@@ -1,7 +1,7 @@
 # List of artists starting with R
 - [Radada](radada.md)
 - [Railola](railola.md)
-- [Raozin’ny paradisa](raozin-ny-mahantra.md)
+- [Raozin’ny paradisa](raozin-ny-paradisa.md)
 - [Ramahafadrahona](ramahafadrahona.md)
 - [Ramilison besigara](ramilison-besigara.md)
 - [Rasoa kininika](rasoa-kininika.md)
