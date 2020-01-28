@@ -1,10 +1,12 @@
 # List of artists starting with C
 
-- [Claudiot](claudiot.md)
-- [Claud de Mahanoro](claud-de-mahanoro.md)
-- [Clo mahajanga](clo-mahajanga.md)
-- [Clauvis](clauvis.md)
 - [Chantal](chantal.md)
+- [Claud de Mahanoro](claud-de-mahanoro.md)
+
+- [Claudiot](claudiot.md)
+
+- [Clauvis](clauvis.md)
+- [Clo mahajanga](clo-mahajanga.md)
 
 [Go back to the artist index](../index.md)
 
