@@ -2,4 +2,4 @@
 
 - [Gangstabab](gangstabab.md)
 
-- [Go back to the artist index](../index.md)
+[Go back to the artist index](../index.md)
