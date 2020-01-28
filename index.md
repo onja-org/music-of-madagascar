@@ -1,5 +1,5 @@
-## Malagasy singers:
-### Welcome to this list of malagasy singer. If you want to know the famous singer in madagascar, just click those link bellow.
+## Malagasy artists:
+Welcome to this list of malagasy artists. If you want to know the famous artists in madagascar, just click those link below.
 
 - [A](a/index.md)
 - [B](b/index.md)
