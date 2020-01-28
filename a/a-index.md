@@ -4,9 +4,9 @@
 - [Agrad](agrad.md)
 - [Aina cock](ainacock.md)
 - [Alson](alson.md)
+- [Ambondrona](ambondrona.md)
 - [AMC Junior](amcjunior.md)
 - [Ampifitia](ampifitia.md)
-- [Ambondrona](ambondrona.md)
 - [Anicet](anicet.md)
 - [Antsan’i Apostoly](antsaniapostoly.md)
 - [Antsan’i Kristy](antsanikristy.md)
@@ -14,3 +14,6 @@
 - [Ariane](ariane.md)
 - [Arione joy](arionjoy.md)
 - [Arnah](arnah.md)
+
+Go back to the artist index
+
