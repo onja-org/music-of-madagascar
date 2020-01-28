@@ -1,4 +1,4 @@
-# List of artists starting with k
+# List of artists starting with K
 - [Kapepeky](kapepeky.md)
 - [Khaleba](khaleba.md)
 - [Khelene](khelene.md)
