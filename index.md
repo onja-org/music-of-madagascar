@@ -3,7 +3,7 @@
 - [Zafindraony](zafindraony.md)
 - [Zeze Mahanoro](zeze-mahanoro.md)
 
-- [Zakaria](zakaria)
+- [Zakaria](zakaria.md)
 
-- [Zarah](zarh)
+- [Zarah](zarah.md)
 
