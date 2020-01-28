@@ -1,4 +1,4 @@
-## List of artists starting with B
+# List of artists starting with B
 
 - [Bollo Pix](bollo-pix.md)
 - [Barinjaka](barinjaka.md)
