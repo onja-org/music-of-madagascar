@@ -5,4 +5,4 @@
 - [Voahangy](voahangy.md)
 - [Voary](voary.md)
 
-[Go back to the artist index](http://../index.md)
+[Go back to the artist index](http://artist-starting-with-v/index.md)
