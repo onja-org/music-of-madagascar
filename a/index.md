@@ -1,0 +1,19 @@
+# List of artists starting with A
+
+- [Adrien](adrien.md)
+- [Agrad](agrad.md)
+- [Aina cock](ainacock.md)
+- [Alson](alson.md)
+- [Ambondrona](ambondrona.md)
+- [AMC Junior](amcjunior.md)
+- [Ampifitia](ampifitia.md)
+- [Anicet](anicet.md)
+- [Antsan’i Apostoly](antsaniapostoly.md)
+- [Antsan’i Kristy](antsanikristy.md)
+- [Antso Fiderana](antsofiderana.md)
+- [Ariane](ariane.md)
+- [Arione joy](arionjoy.md)
+- [Arnah](arnah.md)
+
+
+[Go back to the artist index](../index.md)
