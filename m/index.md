@@ -1,0 +1,32 @@
+# List of artist starting with M
+
+- [Mac Donald](mac-donald.md)
+- [Mad max](mad-max.md)
+- [Mage4](mage4.md)
+- [Magneva](magneva.md)
+- [Mahaleo](mahaleo.md)
+- [Mamada](mamada.md)
+- [Mamy Basta](mamy-basta.md)
+- [Mamy Fanasina](mamy-fanasina.md)
+- [Manaly](manaly.md)
+- [Mario](mario.md)
+- [Marion](marion.md)
+- [Martiora freedom](martiora-freedom.md)
+- [Matata](matata.md)
+- [Matsobara](matsobara.md)
+- [Meizah](meizah.md)
+- [Melky](melky.md)
+- [Mem’s Akademia](mem's-akademia.md)
+- [Micka sy Davis](mika-sy-davis.md)
+- [Mijah](mijah.md)
+- [Mima](mima.md)
+- [Mirado](mirado.md)
+- [Mirindra](mirindra.md)
+- [Monja](monja.md)
+- [Mr Sayda](mr-sayda.md)
+
+[Go back to artist index](../index.md)
+
+
+
+
