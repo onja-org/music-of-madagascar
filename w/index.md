@@ -1,8 +1,7 @@
-# List of the artists starting with 
-
-. [Willy](willy.md)  
-. [Wada](wada.md)  
-. [Wawa](wawa.md)      
-. [Wendy Catallina](wendy-catallina.md)
-
+# List of artists starting with W
+  
+1. [Wada](wada.md)  
+2. [Wawa](wawa.md)     
+3. [Wendy Catallina](wendy-catallina.md)
+4. [Willy](willy.md)
 
