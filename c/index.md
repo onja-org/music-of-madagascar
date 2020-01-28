@@ -4,7 +4,7 @@
 - [Claud de Mahanoro](claud-de-mahanoro.md)
 - [Claudiot](claudiot.md)
 - [Clauvis](clauvis.md)
-- [Clo mahajanga](clo-mahajanga.md)
+- [Clo Mahajanga](clo-mahajanga.md)
 
 [Go back to the artist index](../index.md)
 
