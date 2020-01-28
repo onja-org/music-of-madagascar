@@ -15,10 +15,3 @@
 - [Lovar’son](lovar-son.md)
 
 [Go back to the artist index](../index.md)
-
-
-
-
-
-
-
