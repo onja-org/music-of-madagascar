@@ -1,4 +1,4 @@
-# List of artists starting with f
+# List of artists starting with F
 - [Fandrama](fandrama.md)
 - [Fanilo](Fanilo.md)
 - [Farakely sy Laza](farakely-sy-laza.md)
