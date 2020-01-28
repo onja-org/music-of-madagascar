@@ -1,4 +1,4 @@
-# List of the artists begin with Z
+# List of the artists starting with Z
 - [Zarahasina](zarahasina.md)
 - [Zafindraony](zafindraony.md)
 - [Zeze Mahanoro](zeze-mahanoro.md)
@@ -7,3 +7,4 @@
 
 - [Zarah](zarah.md)
 
+Go back to the artist index
