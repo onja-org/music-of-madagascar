@@ -1,0 +1,16 @@
+# List of artists starting with f
+- [Fandrama](fandrama.md)
+- [Fanilo](Fanilo.md)
+- [Farakely sy Laza](farakely-sy-laza.md)
+- [Faratiana](faratiana.md)
+- [Farimamy](farimamy.md)
+- [Fazila](fazila.md)
+- [Fenoamby](fenoamby.md)
+- [Fenohaja](fenohaja.md)
+- [Firmin](firmin.md)
+- [Flash-B](flash-b.md)
+- [Francis Turbo](franciss-turbo.md)
+- [Frere Abel](frere-abel.md)
+- [Fyiah](fyiah.md)
+
+[Go back to the artist index](../index.md)
