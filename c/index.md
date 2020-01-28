@@ -1,4 +1,4 @@
-# List of the artists starting with C
+# List of artists starting with C
 
 - [Claudiot](claudiot.md)
 - [Claud de Mahanoro](claud-de-mahanoro.md)
