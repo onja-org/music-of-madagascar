@@ -1,4 +1,4 @@
-## Malagasy artists:
+# Malagasy artists:
 Welcome to this list of malagasy artists. If you want to know the famous artists in madagascar, just click those link below.
 
 - [A](a/index.md)
