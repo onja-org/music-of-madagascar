@@ -2,7 +2,7 @@
 
 - [Vaiavy chilla](vaiavy-chilla.md)
 - [Vivy](vivy.md)
-- [Voahangy](voangy.md)
+- [Voahangy](voahangy.md)
 - [Voary](voary.md)
 
 [Go back to the artist index](http://../index.md)
