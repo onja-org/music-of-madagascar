@@ -1,0 +1,17 @@
+# These are the list of singers starting with A
+- [Agrad](agrad.md)
+- [Aina cock](ainacock.md)
+- [Ambondrona](ambondrona.md)
+- [Arnah](arnah.md)
+- [Antson’ny Kristy](antsonnykristy.md)
+- [Antsan’i Kristy](antsanikristy.md)
+- [Antso Fiderana](antsofiderana.md)
+- [Arione joy](arionjoy.md)
+- [Ariane](ariane.md)
+- [Adrien](adrien.md)
+- [Antsan’i Apostoly](antsaniapostoly.md)
+- [Alson](alson.md)
+- [Anicet](anicet.md)
+- [AMC Junior](amcjunior.md)
+- [Ampifitia](ampifitia.md)
+
