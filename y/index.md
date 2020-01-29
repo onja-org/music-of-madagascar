@@ -1,5 +1,7 @@
-List of artists starting with Y
+# List of artists starting with Y
 
 - [Yoann Loic](yoann-loic.md)
 
-Go back to the artist index
+- [Y-zit](y-zit.md)
+
+[Go back to the artist index](../index.md)
