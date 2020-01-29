@@ -9,9 +9,9 @@ This repo was started as a school project at [Onja.org](https://onja.org), as we
 
 ## How to contribute
 
-## Development
+### Development
 
-Please make sure your editor has [EditorConfig](https://editorconfig.org) installed.
+Please make sure your editor has [EditorConfig](https://editorconfig.org) installed before making any changes.
 
 ### Adding an artist
 
