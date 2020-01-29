@@ -1,4 +1,5 @@
 # List of artists starting with J
+- [J’ Rare](j-rare.md)
 - [Jami](jami.md)
 - [Jarifa](jarifa.md) 
 - [Jazz-mmc](jazz-mmc.md)
@@ -12,7 +13,6 @@
 - [Jocelin](jocelin.md)
 - [Johane](johane.md)
 - [Joseph d’af](joseph-d-af.md) 
-- [J’ Rare](j-rare.md)
 - [Judicael](Judicael.md) 
 - [Jyunni](jyunni.md)
 
