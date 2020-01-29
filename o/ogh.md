@@ -5,4 +5,4 @@
 This artist started in 2013
  and became famous in 2015. He is from Soarano-Tananarivo.
 
-**Genre**: Rapp
+**Genre**: Rap
