@@ -1,6 +1,6 @@
-# Artist name
+# Herizo
 
-![alt text](name of the picture.JPG)
+![Herizo](herizo.jpg)
 
 This artist started in ... and became famous ...
 

@@ -1,6 +1,6 @@
 # Haja (and the Groovy People)
 
-![alt text](haja.jpg)
+![Haja](haja.jpg)
 
 Haja and the Groovy People is actually a collective of Madagascan and African artists, and the solo artist Haja. Haja is a reknowned multi-instrumentalist, singer, composer, and dancer.
 
