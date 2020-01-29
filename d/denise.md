@@ -1,4 +1,4 @@
-# Artist name
+# Denise
 
 ![Denise](DENISE.jpg)
 
