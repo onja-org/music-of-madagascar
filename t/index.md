@@ -1,0 +1,20 @@
+# List of artist starting with T
+
+- [Taa tense](taa-tanse.md)
+- [Tantely Watsa](tantely-watsa.md)
+- [Tearano](tearano.md)
+- [Tence Mena](tence-mena.md)
+- [Tenimana](tenimana.md)
+- [Terakaly](terakaly.md)
+- [TDL](tdl.md)
+- [Tinah cherie](tinah-cherie.md)
+- [Tinah](tinah.md)
+- [Theo Rakotovao](theo-rakotovao.md)
+- [THT](tht.md)
+- [Tonton Manjany](tonton-manjany.md)
+- [Tsarahita](tsarahita.md)
+- [Tsiky jolie](tsiky-jolie.md)
+- [Tsiliva](tsiliva.md)
+- [Tsota](tsota.md)
+
+[Go back to artist index](../index.md)
