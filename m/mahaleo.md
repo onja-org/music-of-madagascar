@@ -8,4 +8,4 @@ Source:[wikipedia](https://en.wikipedia.org/wiki/Mahaleo)
 
 **Genre:** Folk pop
 
-**Artist homepage:** [Mahaleo](https://en.wikipedia.org/wiki/Mahaleo#/media/File:Mahaleo_super_group_of_musicians_from_Madagascar_in_2007.jpg)
+**Artist homepage:** [Mahaleo](https://www.youtube.com/channel/UCaQOWmY4aBPwTzsEJSUabZQ)
