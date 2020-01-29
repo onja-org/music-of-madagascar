@@ -1,6 +1,6 @@
 # Arione Joy
 
-![arione](arione joy.jpg)
+![arione](arione-joy.jpg)
 
 
 
