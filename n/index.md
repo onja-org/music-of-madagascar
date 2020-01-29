@@ -18,5 +18,4 @@
 - [Ny Nanahary](ny-nahary.md)
 
 
-
-[Go back to the artist index](../index.md)
+- [Go back to the artist index](../index.md)
