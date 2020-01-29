@@ -2,4 +2,4 @@
 
 ![alt text](vivy.jpg)
 
-**Genre:** tsapiky
+**Genre:** Tsapiky
