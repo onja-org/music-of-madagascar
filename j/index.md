@@ -4,7 +4,7 @@
 - [Jarifa](jarifa.md) 
 - [Jazz-mmc](jazz-mmc.md)
 - [Jean Aime](jean-aime.md)
-- [Jean rigo](jean-rigo.md)
+- [Jean Rigo](jean-rigo.md)
 - [Jerika](jerika.md)
 - [Jerry Marcoss](jerry-marcoss.md)
 - [Jessimo](jessimo.md)
