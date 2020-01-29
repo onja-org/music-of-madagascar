@@ -8,8 +8,8 @@
   - Betatoato
   - Kawitry
   - Kilalaky
-  - Mangaliba
   - Malesa
+  - Mangaliba
   - Salegy
   - Tsapiky
   - Watsawatsa
