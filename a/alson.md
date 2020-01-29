@@ -1,6 +1,6 @@
 # Alson
 
-![Alson](Alson.jpg)
+![Alson](alson.jpg)
 
 **Genre:** Dance/Electronic
 
