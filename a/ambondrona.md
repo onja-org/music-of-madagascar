@@ -6,4 +6,4 @@ AmbondronA is a pop rock from Madagascar. The band has figured prominently in th
 
 **Genre:** Pop Rock
 
-**Artist homepage:** [Ambondrona](https://www.google.com/search?q=Ambondrona&oq=ambondrona&aqs=chrome.0.69i59j0l7.5506j0j7&sourceid=chrome&ie=UTF-8)
+**Artist homepage:** [Ambondrona](https://web.facebook.com/AmbondronApageOfficielle/?_rdc=1&_rdr)
