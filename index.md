@@ -32,6 +32,6 @@ Welcome to this page, if you want to know more about the artist and the genre, j
 - [Z](z/index.md)
 
 ## Genres
-There are some genres wich are originated from each region in Madagascar, to know more click the link below.
+There are some genres wich originated from each region in Madagascar, to know more click the link below.
 
-[Genre of Malagasy music](genres.md)
+[Genres of Malagasy music](genres.md)
