@@ -1,9 +1,9 @@
-# Artist name
+# Dada de fort dauphin
 
-![alt text](dada.jpg)
+![good singer](dada.jpg)
 
-This artist started in ... and became famous ...
+Unfortunetely he has not any information on his facebook or email.
 
-**Genre:** Pop/Rock/etc
+**Genre:** Kawitry/Rock/Tsapiky/Dombolo.
 
-**Artist homepage:** [Google.com](www.google.com)
+**Artist homepage:** [Dada de fort dauphin](nothing can see on homepage)
