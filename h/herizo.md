@@ -2,8 +2,6 @@
 
 ![Herizo](herizo.jpg)
 
-This artist started in ... and became famous ...
+**Genre:** Unknown
 
-**Genre:** Pop/Rock/etc
-
-**Artist homepage:** [Google.com](www.google.com)
+**Artist homepage:** [Herizo Rakotondramiarana on Facebook](https://web.facebook.com/HerizoRakotondramiarana/)
