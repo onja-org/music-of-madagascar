@@ -1,5 +1,5 @@
-# List of the artisrs starting with I
+# List of the artists starting with I
 
 - [Indira](indira.md)
 
-- [Go back to the artist index](../index.md)
+[Go back to the artist index](../index.md)
