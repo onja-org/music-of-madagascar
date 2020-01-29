@@ -1,5 +1,8 @@
-# Malagasy artists:
-Welcome to this list of Malagasy artists. If you want to know the famous artists in Madagascar, just click those link below.
+# Music of Madagascar
+
+Welcome to this page, if you want to know more about the artist and the genre, just clik the link.
+
+## Artists:
 
 - [A](a/index.md)
 - [B](b/index.md)
@@ -27,3 +30,8 @@ Welcome to this list of Malagasy artists. If you want to know the famous artists
 - [X](x/index.md)
 - [Y](y/index.md)
 - [Z](z/index.md)
+
+## Genres
+There are some genres wich are originated from each region in Madagascar, to know more click the link below.
+
+[Genre of Malagasy music](genres.md)
