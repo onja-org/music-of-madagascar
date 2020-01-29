@@ -1,17 +1,17 @@
 # List of artists starting with S
 
 - [Saida](saida.md)
-- [Saotra sy Dera](saotrasydera)
-- [Saya](saya)
-- [Simon Randria](simonrandria.md)
+- [Saotra sy Dera](saotra-sy-dera.md)
+- [Saya](saya.md)
+- [Simon Randria](simon-randria.md)
 - [Simonda](simonda.md)
 - [Sisca](sisca.md)
 - [Skaiz](skaiz.md)
 - [Smaven](smaven.md)
-- [Solo mianadahy](solomianadahy.md)
-- [Special Tanala](specialtanala.md)
+- [Solo mianadahy](solo-mianadahy.md)
+- [Special Tanala](special-tanala.md)
 - [Staray](staray.md)
 - [Supreme](supreme.md)
-- [Sweet Gangsta](sweetgangsta.md)
+- [Sweet Gangsta](sweet-gangsta.md)
 
 [Go back to the artist index](../index.md)
