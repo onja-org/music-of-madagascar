@@ -2,7 +2,7 @@
 
 ![Ambondrona](ambondrona.jpg)
 
-AmbondronA is a pop rock from Madagascar. The band has figured prominently in the Malagasy music scene since 2001. AmbondronA has toured extensively throughout Madagascar, and has given numerous performances throughout the Indian Ocean Islands, France and South Africa. The band has released six albums. Wikipedia
+AmbondronA is a pop rock band from Madagascar. The band has figured prominently in the Malagasy music scene since 2001. AmbondronA has toured extensively throughout Madagascar, and has given numerous performances throughout the Indian Ocean Islands, France and South Africa. The band has released six albums.
 
 **Genre:** Pop Rock
 
