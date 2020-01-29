@@ -1,19 +1,9 @@
-# List of artists starting with A
+# Artist name
 
-- [Adrien](adrien.md)
-- [Agrad](agrad.md)
-- [Aina cock](ainacock.md)
-- [Alson](alson.md)
-- [Ambondrona](ambondrona.md)
-- [AMC Junior](amcjunior.md)
-- [Ampifitia](ampifitia.md)
-- [Anicet](anicet.md)
-- [Antsan’i Apostoly](antsaniapostoly.md)
-- [Antsan’i Kristy](antsanikristy.md)
-- [Antso Fiderana](antsofiderana.md)
-- [Ariane](ariane.md)
-- [Arione joy](arionjoy.md)
-- [Arnah](arnah.md)
+![alt text](name of the picture.JPG)
 
+This artist started in ... and became famous ...
 
-[Go back to the artist index](../index.md)
+**Genre:** Pop/Rock/etc
+
+**Artist homepage:** [Google.com](www.google.com)
