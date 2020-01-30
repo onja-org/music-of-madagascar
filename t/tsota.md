@@ -1,9 +1,8 @@
-# Artist name
+# Tsota
 
-![alt text](name of the picture.JPG)
+![Tsota](tsota.jpg)
 
-This artist started in ... and became famous ...
+**Genre:** Hip-Hop/Rap
 
-**Genre:** Pop/Rock/etc
-
-**Artist homepage:** [Google.com](www.google.com)
+**Artist homepage:**
+[Tsota on facebook](https://web.facebook.com/tsotapenambava/?_rdc=1&_rdr)
