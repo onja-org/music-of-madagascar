@@ -2,4 +2,4 @@
 
 ![Tinah](tinah.jpg)
 
-**Genres:**Dance/Electronic
+**Genres:** Dance/Electronic
