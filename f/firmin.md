@@ -1,6 +1,6 @@
 # Firmin
 
-![Firmin](fir.jpg)
+![Firmin](firmin.jpg)
 
 **Biography**: Andrianiaina Firmin, known as Firmin is an old malagasy singer. He lives in Antananarivo. He sometimes sings with other singers.
 
