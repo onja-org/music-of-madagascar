@@ -1,11 +1,6 @@
 # Arione Joy
 
-
-
 ![arione-joy](arione-joy.jpg)
-
-
-
 
 Some are born and raised in a family of artists and automatically follow in the footsteps of their parents. Others fall into this environment by the greatest of hazards and sometimes prove to be excellent artists. This is the case of Fetra Arivony, now known as Arione Joy.
 
@@ -17,13 +12,3 @@ Mahetsaka
 **Genre**: RNB, Reggae & Roots.
 
 **Artist homepage**: [Arion Joy on facebook.com](https://web.facebook.com/pg/Arione-Joy-782590048428971/posts/)
-
-
-
-
-
-
-
-
-
-
