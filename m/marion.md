@@ -6,6 +6,6 @@ This artist started in 2004 and became famous in 2006.He is from Imerina's tribe
 
 **Genre:** RNB
 
-**Artist homepage:** [Marion](www.facebook.com)
+**Artist homepage:** [Marion](m.faceook.com)
 
 
