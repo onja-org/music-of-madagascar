@@ -1,6 +1,6 @@
 # Jazz mmc
 
-![This is a label of his song-"Not as before"](jazz.JPG)
+![This is a label of his song-"Not as before"](jazz-mmc.jpg)
 
 This artist started in 2010 and became famous 2014
 
