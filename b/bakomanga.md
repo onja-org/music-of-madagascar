@@ -1,6 +1,6 @@
 # Bakomanga
 
-![alt text](bakomanga.jpg)
+![Bakomanga](bakomanga.jpg)
 
 Led by Malagasy singer Mariette Rasoarinala, Groupe Bakomanga is known for performing traditional Merina songs and dance. Its repertoire draws from the hira gasy as well as other traditional and contemporary Merina genres that pay tribute to ancestors, usher in the harvest, and preserve Merina traditions.
 
