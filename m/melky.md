@@ -1,10 +1,10 @@
 # Melky
 
 
-![Melky of picture](melky.jpg)
+![Picture of melky](melky.jpg)
 
 
-Melky or Miangaly her real name.She Became famous after the finalist of pazzapa 4 in 2007.She has been singing with some singer such as Firmin before.
+Melky or Miangaly her real name.She became famous after the finalist of pazzapa 4 in 2007. She has been singing with some singers such as firmin before.
 
 **Genre:** Slow
 
