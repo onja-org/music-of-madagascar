@@ -6,4 +6,4 @@
 
 **Genre:**  Hira gasy, Vakisôva, Tapolaka
 
-**Artist homepage:**  [Rossy]https://web.facebook.com/GoRossy/?_rdc=1&_rdr
+**Artist homepage:**  [Rossy](https://web.facebook.com/GoRossy/?_rdc=1&_rdr)
