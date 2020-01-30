@@ -1,6 +1,6 @@
 # List of artists starting with V
 
-- [Vaiavy chila](vaiavy-chila.md)
+- [Vaiavy Chila](vaiavy-chila.md)
 - [Vivy](vivy.md)
 - [Voahangy](voahangy.md)
 - [Voary](voary.md)
