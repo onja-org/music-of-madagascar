@@ -1,6 +1,5 @@
 # List of artists starting with S
 
-- [Saida](saida.md)
 - [Saotra sy Dera](saotra-sy-dera.md)
 - [Saya](saya.md)
 - [Simon Randria](simon-randria.md)

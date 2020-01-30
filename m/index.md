@@ -17,7 +17,7 @@
 - [Meizah](meizah.md)
 - [Melky](melky.md)
 - [Mem’s Akademia](mem-s-akademia.md)
-- [Micka sy Davis](mika-sy-davis.md)
+- [Mika sy Davis](mika-sy-davis.md)
 - [Mijah](mijah.md)
 - [Mima](mima.md)
 - [Mirado](mirado.md)
