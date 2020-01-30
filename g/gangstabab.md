@@ -6,6 +6,6 @@ Gangstabab, whose real name is Bàbà Rakotoarisoa, is a very popular malagasy s
 
 Sorry,we couldn't find more information about this artist.
 
-**genre**:
+**genre**: Jazz, Rap.
 
 **Artist homepage**:[Gangstabab on twitter.com](https://twitter.com/hashtag/gangstabab?src=hashtag_click)
