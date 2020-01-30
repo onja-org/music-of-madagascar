@@ -1,10 +1,16 @@
-# Melky
+# Eric Manana
 
 
-![Melky of picture](melky.jpg)
+![Picture of eric](eric-manana.jpg)
 
-This artist started in ... and became famous ...
 
-**Genre:** Pop/Rock/etc
 
-**Artist homepage:** [Google.com](www.google.com)
+Erick Manana is an acoustic guitarist, singer and songwriter from Madagascar. He often performs in a duo or as a solo artist, singing in accompaniment to his acoustic guitar in the ba-gasy genre that gained prominence in the central highlands of Madagascar in the 1930s.
+Born: 1959 (age 61 years), Madagascar
+
+**Genre:** Salegy
+
+
+
+
+**Artist homepage:** [Eric-Manana](https://web.facebook.com/erickmananaPAGEOFFICIELLE/?_rdc=1&_)
