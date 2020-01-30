@@ -2,7 +2,7 @@
 
 ![big-mj](big-mj.jpg)
 
-Big mj is a Malagasy artist who was born in 198.He is from Antalaha
+Big mj is a Malagasy artist who was born in 1987.He is from Antalaha
 
 
 **Genre:** salegy
