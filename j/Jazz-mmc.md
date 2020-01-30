@@ -1,9 +1,9 @@
 # Artist name
 
-![alt text](jazz.JPG)
+![alt text](name of the picture.JPG)
 
-This artist started in 2010 and became famous 2014
+This artist started in ... and became famous ...
 
-**Genre:** Waza made up of ragga and rap
+**Genre:** Pop/Rock/etc
 
-**Artist homepage:** [Jazz-mmc.com](https://latribune.cyber-diego.com/culture/1963-jazz-mmc-une-carriere-en-evolution-avec-ou-sans-le-gweta.html)
+**Artist homepage:** [Google.com](www.google.com)
