@@ -8,4 +8,4 @@ Théo Rakotovao and his group Mikea put Madagascar on the musical map in Novembe
 
 **Genre:** Beko, tsapiky
 
-**Artist homepage:** [Theo Rakotovao-Mikea](https://translate.google.com/translate?hl=en&sl=fr&u=https://musique.rfi.fr/artiste/mikea&prev=search)
+**Artist homepage:** [Theo Rakotovao-Mikea](https://fr-fr.facebook.com/theomikea/)
