@@ -3,9 +3,7 @@
 ![Mage4](Mage4.jpg)
 
 
-
-
-This artist started to sing in *1992* and became famous *2008*. There are eight people in *Mage4*: **Helien, Lita, Mika, Tins, Elise, Solohery,Zeze and Bema**.They are living in ***Alarobia Antananarivo***.
+This artist started to sing in *1992* and became famous *2008*. There are eight people in *Mage4*: **Helien, Lita, Mika, Tins, Elise, Solohery,Zeze and Bema**. They are living in ***Alarobia Antananarivo***.
 
 **Genre:** Soft rock
 
