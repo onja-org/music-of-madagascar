@@ -1,6 +1,6 @@
 # Mage 4
 
-![Mage4](Mage4.JPG)
+![Mage4](Mage4.jpg)
 
 
 
