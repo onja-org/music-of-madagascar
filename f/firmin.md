@@ -1,9 +1,9 @@
-# Artist name
+# Firmin
 
-![alt text](name of the picture.JPG)
+![Firmin](fir.jpg)
 
-This artist started in ... and became famous ...
+**Biography**: Andrianiaina Firmin, known as Firmin is an old malagasy singer. He lives in Antananarivo. He sometimes sings with other singers.
 
-**Genre:** Pop/Rock/etc
+**Genre:** Tsapiky/Salegy/Slow.
 
-**Artist homepage:** [Google.com](www.google.com)
+**Artist homepage:** [Firmin](https://fr-fr.facebook.com/pages/category/Public-Figure/Firmin-Artiste-428135913976103/)
