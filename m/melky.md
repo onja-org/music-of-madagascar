@@ -3,8 +3,10 @@
 
 ![Melky of picture](melky.jpg)
 
-This artist started in ... and became famous ...
 
-**Genre:** Pop/Rock/etc
+Melky or Miangaly her real name.She Became famous after the finalist of pazzapa 4 in 2007.She has been singing with some singer such as Firmin before.
 
-**Artist homepage:** [Google.com](www.google.com)
+**Genre:** Slow
+
+
+**Artist homepage:** [Melky](https://web.facebook.com/pg/MelkyInyIanaoIny/posts/?ref=page_internal)
