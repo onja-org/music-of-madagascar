@@ -2,7 +2,7 @@
 
 ![gangstabab](gangstabab.jpg)
 
-Bàbà Rakotoarisoa, which is Gangstabab's real name, is a very popular malagasy singer.
+Gangstabab, whose real name is Bàbà Rakotoarisoa, is a very popular malagasy singer.
 
 Sorry,we couldn't find more information about this artist.
 
