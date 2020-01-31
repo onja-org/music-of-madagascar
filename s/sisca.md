@@ -1,6 +1,6 @@
 #  Sisca
 
-![alt text](sisca.jpg)
+![Sisca](sisca.jpg)
 
 She is the rising star of Malagasy tropical music. Her mogodro style, from modern salegy to fiery temperament, makes her a mafana value. His notoriety grew in Mayotte, in South Africa, and of course in his native country. 
 
