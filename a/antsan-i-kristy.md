@@ -1,7 +1,5 @@
 # Antsan'i Kristy
 
-![antsan-i-Kristy](antsan-i-kristy.jpg)
+![Image of antsan'i-Kristy](antsan-i-kristy.jpg)
 
-
-
-**Genre:** Christian music
+**Genre:** Christian song
