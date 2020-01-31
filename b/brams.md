@@ -2,7 +2,7 @@
 
 ![Brams](brams.jpg)
 
-Unfortunately, we could not find any information about this singer. We only found his homepage, so you can have a lookat that.
+Unfortunately, we could not find any information about this singer. We only found his homepage, so you can have a look at that.
 
 **Genre:** Salegy
 
