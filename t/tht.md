@@ -2,7 +2,7 @@
 
 ![THT](tht.jpg)
 
-This artist started to sing in 2014 and became famous in 2015. There are three boys in artist, they are Sthanks, Farao and Jiiz.
+This artist started to sing in 2014 and became famous in 2015. There are three boys in this artist, they are Sthanks, Farao and Jiiz.
 
 **Genre:** Rap
 
