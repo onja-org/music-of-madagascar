@@ -2,7 +2,7 @@
 
 
 
-![Tearano](Tearano.jpg)
+![Tearano](tearano.jpg)
 
 
 Tearano is a musical group from the southwestern region of Madagascar. They perform a contemporary form of the traditional beko genre, fusing southern vocal harmonies and tsapiky rhythms with modern instrumentation heavily featuring synthesizers and electric guitars.
