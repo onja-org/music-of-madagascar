@@ -1,0 +1,9 @@
+# Ny ainga
+
+![Ny ainga](ny-ainga.JPG)
+
+This artist started to sing in 1994 and became famous 1995. There are five singers and six musicians in this musical group. Om'guy was the leader of this group, but he actually died in 2018. Since then, Luc is the name of their new leader.
+
+**Genre:** Country
+
+**Artist homepage:** [Ny ainga](https://web.facebook.com/Tarika.Ny.Ainga/?_rdc=1&_rdr)
