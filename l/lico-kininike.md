@@ -1,6 +1,6 @@
-# Lico kininike
+# Lico Kininike
 
-![take a look at a pucture of lico-kininike](lico-kininike.md.JPG)
+![lico-kininike](lico-kininike.JPG)
 
 
 This artist started in 2010 and became famous in 2016.
@@ -10,4 +10,4 @@ His real name is Pascal Ginet Lico and his mother was died by a car accident in 
 
 **Genre:** Tsapiky and salegy
 
-**Artist homepage:** [Google.com](https//www.lico-kininike.google.com)
+**Artist homepage:** [Google.com](https://www.lico-kininike.google.com)
