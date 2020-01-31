@@ -2,7 +2,7 @@
 
 ![dalvis](dalvis.jpg)
 
-Dalvis is an international singer from the north of madagascar which is Diana.
+Dalvis is an international singer from the north of madagascar, which is Diana.
 
 **Genre:** RNB
 
