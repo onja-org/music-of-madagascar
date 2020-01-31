@@ -1,9 +1,9 @@
-# Artist name
+# Mems Akademia
 
-![alt text](name of the picture.JPG)
+![Mems](mems.JPG)
 
-This artist started in ... and became famous ...
+He is a malagasy singer. He is from Ambositra.
 
-**Genre:** Pop/Rock/etc
+**Genre:** Tsapiky
 
-**Artist homepage:** [Google.com](www.google.com)
+**Artist homepage:** [Mems](https://web.facebook.com/permalink.php?id=1401015956661660&story_fbid=2225596934203554&_rdc=1&_rdr)
