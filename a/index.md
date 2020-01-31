@@ -2,7 +2,7 @@
 
 - [Adrien](adrien.md)
 - [Agrad](agrad.md)
-- [Aina cock](ainacock.md)
+- [Aina Cook](aina-cook.md)
 - [Alson](alson.md)
 - [Ambondrona](ambondrona.md)
 - [AMC Junior](amcjunior.md)
