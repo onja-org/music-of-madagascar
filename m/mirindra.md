@@ -1,9 +1,9 @@
-# Artist name
+# Mirindra
 
-![alt text](name of the picture.JPG)
+![mirindra](mirindra.jpg)
 
-This artist started in ... and became famous ...
+Mirindra is a singer from Madagascar
 
-**Genre:** Pop/Rock/etc
+**Genre:** Slow,RNB
 
-**Artist homepage:** [Google.com](www.google.com)
+**Artist homepage:** [mirindra](https://web.facebook.com/mirindra.music/?_rdc=1&_rdr)
