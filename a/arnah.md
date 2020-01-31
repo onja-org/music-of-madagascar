@@ -1,5 +1,5 @@
 # Arnah
 
-![arnah](arnah.jpg)
+![Arnah](arnah.jpg)
 
 **Genre:** Dance/Electronic
