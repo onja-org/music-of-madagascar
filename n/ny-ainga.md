@@ -2,7 +2,7 @@
 
 ![Ny ainga](ny-ainga.jpg)
 
-This artist started to sing in 1994 and became famous 1995. There are five singers and six musicians in this musical group. Om'guy was the leader of this band, but he actually died in 2018. Since then, Luc is the name of the new leader of this group.
+This artist started to sing in 1994 and became famous in 1995. There are five singers and six musicians in this musical group. Om'guy was the leader of this band, but he actually died in 2018. Since then, Luc is the name of the new leader of this group.
 
 **Genre:** Country
 
