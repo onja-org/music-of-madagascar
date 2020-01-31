@@ -1,7 +1,7 @@
 # Lola
 
-![lola](lolaa.jpg)
+![lola](lola.jpg)
 
-Lola is a super famous astist in Madagascar. He had been in the band called 'Rebika' before then soon later, He quited that band and until now, He's going independently along his own way.
+Lola is a super famous astist in Madagascar. He had been in the band called 'Rebika' before but he quited that band afterward. He is singing independantly now.
 
 **Genre**: Slow & Batrelaka.
