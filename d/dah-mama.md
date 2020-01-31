@@ -1,9 +1,9 @@
-# Dah Mama
+# Artist name
 
-![Dah Mama](dah-mama.jpg)
+![alt text](name of the picture.JPG)
 
-**Biography**:Narijaonina Elda, Known as Dah Mama origines from North-West of Madagascar. She lives in Befandrina which is in Sofia region. Also, she is a Tsimihety Girl. She is married and has 2 children.
+This artist started in ... and became famous ...
 
-**Genre:** Salegy/Kawitry/Slow.
+**Genre:** Pop/Rock/etc
 
-**Artist homepage:** [Dah Mama](https://fr-fr.facebook.com/pg/DahMamaOfficiel/about/)
+**Artist homepage:** [Google.com](www.google.com)
