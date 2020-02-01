@@ -11,4 +11,4 @@ Coming from a modest family, D-Lain obtained his baccalaureate and left the fami
 
 **Genre:** Pop
 
-**Artist homepage:** [D-lain](/https://fr-fr.facebook.com/DLainOfficiel/)
+**Artist homepage:** [D-lain](https://fr-fr.facebook.com/DLainOfficiel/)
