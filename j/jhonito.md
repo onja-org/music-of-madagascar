@@ -1,9 +1,9 @@
-# Artist name
+# Jhonito
 
-![alt text](name of the picture.JPG)
+![jhonito](jhonito.jpg)
 
-This artist started in ... and became famous ...
+Jhonito is young singer, who is from Fenerive-Est.
 
-**Genre:** Pop/Rock/etc
+**Genre:** Watsawatsa
 
-**Artist homepage:** [Google.com](www.google.com)
+**Artist homepage:** [jhonito](rhttps://web.facebook.com/groups/643480139074109?_rdc=1&_rd)
