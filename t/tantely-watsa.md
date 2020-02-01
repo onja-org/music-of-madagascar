@@ -1,4 +1,4 @@
-# Artist name
+# Tantely watsa
 
 ![Tantely watsa](tantely-watsa.jpg)
 
