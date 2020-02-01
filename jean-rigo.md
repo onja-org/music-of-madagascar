@@ -1,9 +1,9 @@
-# Artist name
+# Jean Rigo
 
-![alt text](name of the picture.JPG)
+![Jean Rigo](jean-rigo.jpg)
 
-This artist started in ... and became famous ...
+Sorry, i can't find any information about this artist.
 
-**Genre:** Pop/Rock/etc
+**Genre:** Slow, Sega and Salegy.
 
-**Artist homepage:** [Google.com](www.google.com)
+**Artist homepage:** [Jean Rigo](https://tononkira.serasera.org/hira/jean-rigo/ambila-zaho.com)
