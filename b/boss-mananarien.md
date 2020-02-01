@@ -4,3 +4,4 @@
 
 Boss Mananarien is an atrist from Mananara, Madagascar.
 
+**Genre**: Afro Trap.
