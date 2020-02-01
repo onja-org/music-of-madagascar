@@ -2,7 +2,7 @@
 
 ![mamada](mamada.jpg)
 
-Mamada is
+Mamada is an old singer, who is from Toliara. He has sung for 10 years.
 
 **Genre:** Tsapiky
 
