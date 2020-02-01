@@ -9,7 +9,7 @@
 - [Lianah](lianah.md)
 - [Lico Kininike](lico-kininike.md)
 - [Lil’c](lil-c.md)
-- [Lily](lily.md)
+- [Lyli](lyli.md)
 - [Lion Hill](lion-hill.md)
 - [Lola](lola.md)
 - [Lovar’son](lovar-son.md)
