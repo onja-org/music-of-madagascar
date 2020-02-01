@@ -2,7 +2,6 @@
 
 ![lico-kininike](lico-kininike.JPG)
 
-
 This artist started in 2010 and became famous in 2016.
 
 
