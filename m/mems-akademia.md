@@ -1,6 +1,6 @@
 # Mems Akademia
 
-![Mems](mems.jpg)
+![Mems-Ademia](mems-akademia.jpg)
 
 He is Malagasy singer from Ambositra. He is also a songwriter.
 
