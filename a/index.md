@@ -9,7 +9,7 @@
 - [Ampifitia](ampifitia.md)
 - [Anicet](anicet.md)
 - [Antsan’i Apostoly](antsaniapostoly.md)
-- [Antsan’i Kristy](antsanikristy.md)
+- [Antsan’i Kristy](antsan-i-kristy.md)
 - [Antso Fiderana](antsofiderana.md)
 - [Ariane](ariane.md)
 - [Arione joy](arionjoy.md)
