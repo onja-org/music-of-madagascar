@@ -1,7 +1,7 @@
 # List of artist starting with D
 
 
-- [D’Gary](d'gary.md)
+- [D-Gary](d-gary.md)
 - [D’YEM](d'yem.md)
 - [D-lain](d-lain.md)
 - [Dada de fort Dauphin](dada-de-fort-dauphin.md)
