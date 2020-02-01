@@ -2,8 +2,10 @@
 
 ![Jocelin Mandritsara](jocelin-mandritsara.jpg)
 
-This artist started in ... and became famous ...
+Sorry, we can't find any informatoin on this artist.
 
-Bio..
 
-**Artist homepage:** []()
+
+**Genre** :Salegy,Tsapiky,Sega
+
+**Artist homepage:** [Jocelin on Gasy.net](https://gasy.net/fr/video/category/158/jocelin-mandritsara.html)
