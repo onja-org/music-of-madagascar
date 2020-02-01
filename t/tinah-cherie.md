@@ -2,7 +2,7 @@
 
 ![tinah cherie](tinah-cherie.jpg)
 
-Tinah Cherie started to sing in 2017. Since then she became famous and so now.
+Tinah Cherie started to sing in 2017 and became famous in the same year.
 
 **Genre:** Pop and slow.
 
