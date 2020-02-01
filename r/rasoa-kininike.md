@@ -2,7 +2,7 @@
 
 ![Rasoa Kininike](rasoa-kininike.JPG)
 
-This artist is born in 1978 and she was died in 2014 by bus accident. She is from Tongobory-Toliara.She is Lico Kininike's mother.
+This artist was born in 1978 and died in 2014 by bus accident. She is from Tongobory-Toliara.She is Lico Kininike's mother.
 
 **Genre:** Tsapiky
 
