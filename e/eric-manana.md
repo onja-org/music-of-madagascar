@@ -7,7 +7,4 @@ Born: 1959 (age 61 years), Madagascar
 
 **Genre:** Salegy
 
-
-
-
 **Artist homepage:** [Eric-Manana](https://web.facebook.com/erickmananaPAGEOFFICIELLE/?_rdc=1&_)
