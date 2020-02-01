@@ -1,9 +1,9 @@
-# Artist name
+# Jyunni
 
-![alt text](name of the picture.JPG)
+![Jyunni](jyunni.JPG)
 
-This artist started in ... and became famous ...
+We are sorry, we couldn't find any information on this artist.
 
-**Genre:** Pop/Rock/etc
+**Genre:** RNB
 
-**Artist homepage:** [Google.com](www.google.com)
+**Artist homepage:** [Jyunni](https://www.facebook.com/jyunniharyen/videos)
