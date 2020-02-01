@@ -1,6 +1,6 @@
 # Special Tanala
 
-![A group of special-tanala](special-tanala.jpg)
+![Special Tanala](special-tanala.jpg)
 
 
 
@@ -12,5 +12,4 @@ Special Tanala is a name of brand but the real name of the artist is Jancos. Tan
 **Genre:** Trematremaky.
 
 
-**Artist homepage:**[special-tanala](https://www.special-tanala.google.com)
-
+**Artist homepage:**[special-tanala on facebook](https://en-gb.facebook.com/fierteAntagnala/videos/1861166747230202/)
