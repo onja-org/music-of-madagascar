@@ -1,8 +1,8 @@
-# Artist name
+# Tonton Manjany
 
 ![alt text](name of the picture.JPG)
 
-This artist started in ... and became famous ...
+I am so sorry, there is nothing about this people and i am sure that he isn't even an artist.
 
 **Genre:** Pop/Rock/etc
 
