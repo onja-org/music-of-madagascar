@@ -1,9 +1,5 @@
-# Artist name
+# Ninas
 
-![alt text](name of the picture.JPG)
+![Ninas](ninas.jpg)
 
-This artist started in ... and became famous ...
-
-**Genre:** Pop/Rock/etc
-
-**Artist homepage:** [Google.com](www.google.com)
+**Genre:** Tsapiky
