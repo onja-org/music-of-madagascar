@@ -1,6 +1,6 @@
-# Jocelin
+# Jocelin Mandritsara
 
-![Jocelin](jocelin.jpg)
+![Jocelin Mandritsara](jocelin-mandritsara.jpg)
 
 This artist started in ... and became famous ...
 
