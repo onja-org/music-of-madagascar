@@ -9,8 +9,9 @@
 - [Fenohaja](fenohaja.md)
 - [Firmin](firmin.md)
 - [Flash-B](flash-b.md)
-- [Francis Turbo](franciss-turbo.md)
+- [Francis Turbo](francis-turbo.md)
 - [Frere Abel](frere-abel.md)
+- [Frere Herizo](frere-herizo.md)
 - [Fyiah](fyiah.md)
 
 [Go back to the artist index](../index.md)

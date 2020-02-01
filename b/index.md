@@ -1,4 +1,5 @@
 # List of artists starting with B
+
 - [Baba](baba.md)
 - [Babaic](babaic.md)
 - [Bakomanga](bakomanga.md)
@@ -9,7 +10,7 @@
 - [Benja Ralibera](benja-ralibera.md)
 - [Bera60](bera60.md)
 - [Besa](besa.md)
-- [Big Jim dah](big-jim-h.md)
+- [Big Jim dah](big-jim-dah.md)
 - [Big mj](big-mj.md)
 - [Black Nadia](black-nadia.md)
 - [Bodo](bodo.md)
@@ -19,10 +20,4 @@
 - [Brams](brams.md)
 - [Brillante](brillante.md)
 
-
 [Go back to the artist index](../index.md)
-
-
-
-
-
