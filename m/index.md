@@ -6,7 +6,7 @@
 - [Magneva](magneva.md)
 - [Mahaleo](mahaleo.md)
 - [Mamada](mamada.md)
-- [Mamy Basta](mamy-basta.md)
+- [Mami Bastah](mami-bastah.md)
 - [Mamy Fanasina](mamy-fanasina.md)
 - [Manaly](manaly.md)
 - [Mario](mario.md)
