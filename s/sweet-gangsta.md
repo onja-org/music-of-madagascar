@@ -6,4 +6,4 @@ This artist started to sing in 2014 and became famous in 2015. His real name is 
 
 **Genre:** Rap and vocalist music.
 
-**Artist homepage:** [Sweet Gangsta](https://web.facebook.com/sharer.php?u=https%3A%2F%2Ftononkira.serasera.org%2Fmpihira%2Fgangstabab&_rdc=1&_rdr)
+**Artist homepage:** [Sweet Gangsta](https://web.facebook.com/search/top/?q=gangastabab&epa=SEARCH_BOX)
