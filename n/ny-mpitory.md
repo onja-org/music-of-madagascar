@@ -1,9 +1,10 @@
-# Artist name
+# Ny mpitory
 
-![alt text](name of the picture.JPG)
 
-This artist started in ... and became famous ...
+![Ny mpitory](ny-mpitory.jpg)
 
-**Genre:** Pop/Rock/etc
+It is an evangelical band.
 
-**Artist homepage:** [Google.com](www.google.com)
+**Genre:** Slow, country
+
+**Artist homepage:** [Ny mpitory](https://tononkira.serasera.org/tononkira/hira/index/166)
