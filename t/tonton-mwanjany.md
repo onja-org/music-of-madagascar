@@ -1,9 +1,9 @@
-# Tonton Manjany
+# Tonton Mwanjany
 
 ![alt text](name of the picture.JPG)
 
 
-I am so sorry, there is nothing about this people and i am sure that he isn't even an artist.
+I am so sorry, this artist can't be found.
 
 **Genre:** Pop/Rock/etc
 
