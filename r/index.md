@@ -10,7 +10,7 @@
 - [Ridjade](ridjade.md)
 - [Rija Rasolondraibe](rija-rasolondraibe.md)
 - [Rindra](rindra.md)
-- [Rissi](rissi.md)
+- [Richie](richie.md)
 - [Robera](robera.md)
 - [Rossy](rossy.md)
 - [Rotsy](rotsy.md)
