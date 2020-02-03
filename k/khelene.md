@@ -1,9 +1,9 @@
-# Artist name
+# Khelene
 
-![alt text](name of the picture.JPG)
+![Image of khelene](khelene.jpg)
 
-This artist started in ... and became famous ...
+Khelene is an artist from Morondava. This artist started to sing in 2014 and became famous in 2015.
 
-**Genre:** Pop/Rock/etc
+**Genre:** Tsapiky
 
-**Artist homepage:** [Google.com](www.google.com)
+**Artist homepage:** [Khelene](https://web.facebook.com/pages/category/Artist/Khelene-1534807850181791/?_rdc=1&_rdr)
