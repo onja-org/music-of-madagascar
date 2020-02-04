@@ -2,7 +2,7 @@
 
 - [Chantal](chantal.md)
 - [Claud de Mahanoro](claud-de-mahanoro.md)
-- [Claudiot](claudiot.md)
+- [Claudio](claudiot.md)
 - [Clauvis](clauvis.md)
 - [Clo Mahajanga](clo-mahajanga.md)
 
