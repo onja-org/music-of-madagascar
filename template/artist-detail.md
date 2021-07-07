@@ -1,6 +1,7 @@
-# Artist name
+# Melky
 
-![alt text](name of the picture.JPG)
+
+![Melky of picture](melky.jpg)
 
 This artist started in ... and became famous ...
 
